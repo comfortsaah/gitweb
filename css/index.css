@@ -1,0 +1,11 @@
+.message{
+	display: inline-block;
+	list-style-type: none;
+	border: 1px solid #dee2e6 !important;
+	width: 70%;
+	
+}
+
+.cont{
+	gheight: 100%;
+}
